@@ -1,5 +1,10 @@
 # README
 
+## Project Overview :
+This project was completed for CS091 (Social Crowd and Computing) under the guidance of Dr. Sukrit Venkatagiri in collaboration with Felicia Chan '26 and Anusha Bhatia '24. 
+We implemented a chatbot for a Mastodon server that summarizes mass comment sections using natural language processing. To prepare for the implementation, we conducted research
+about Mastodon APIs and social/computing issues to address. 
+
 ## Resources:
 GitHub refresher: https://coderuse.com/2017/10/A-Short-Refresher-On-Git/
 
