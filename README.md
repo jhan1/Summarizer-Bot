@@ -70,9 +70,9 @@ Note that if you can't access the app on that port, try a different one, like 50
 
 ## Build Part 1
 ### Requirements
-1. Be able to detect when there is a new post that uses #summarizethis and output the comment ID (Felicia)
-2. Given the comment ID, be able to take the ancestors and descendants of the comment and build a comment tree that will later be put into the NLP (Jisu) 
-3. Be able to post the summary on Mastodon as reply to the post that used the hashtag #summarizethis (Anusha)
+1. Be able to detect when there is a new post that uses #summarizethis and output the comment ID
+2. Given the comment ID, be able to take the ancestors and descendants of the comment and build a comment tree that will later be put into the NLP
+3. Be able to post the summary on Mastodon as reply to the post that used the hashtag #summarizethis
 
 ** As per our talk earlier, these requirements are updated and different from the original writeup. 
 
